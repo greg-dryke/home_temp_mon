@@ -6,7 +6,7 @@
 * add real link to logging library
 
 ## Setup
-Currently running it with supervisor. Config is super simple.
+Currently running it with supervisor. Config is super simple. Just copy it to /etc/supervisor/conf.d
 
 Also, need to put the adafruit secret in file: `adakey.secret`
 
